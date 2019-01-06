@@ -1,3 +1,3 @@
-This tutorial is a step-by-step learning for anyone who intends to learn Angular.
+This tutorial is a step-by-step learning for anyone who intends to learn front end technologies.
 
-<a href="./page1.html">Getting Started</a>
+<a href="./angular/page1.html">Getting Started with Angular</a>
