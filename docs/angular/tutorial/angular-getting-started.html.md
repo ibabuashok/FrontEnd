@@ -7,4 +7,4 @@
 
 <a href="https://github.com/ibabuashok/FrontEnd/tree/master/src/angular/tutorial/angular-getting-started/my-app">Source Code</a>
 
-<a href="../../readme.md">Home</a>
+<a href="../../README.md">Home</a>
