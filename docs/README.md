@@ -1,3 +1,3 @@
-read me file... content...
+This tutorial is a step-by-step learning for anyone who intends to learn Angular.
 
-<a href="./page1.html">Page 1</a>
+<a href="./page1.html">Getting Started</a>
