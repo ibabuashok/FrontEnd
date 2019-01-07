@@ -1,7 +1,7 @@
 
 <p><span style="text-decoration: underline;"><strong>Angular Project Structure</strong></span></p>
 <p><span style="text-decoration: underline;"><strong>Components:</strong></span></p>
-<p><em>Components</em>&nbsp;are the basic building blocks. They display data, get user input and call appropriate service methods.</p>
+<p><em>Components</em>&nbsp;are the basic building blocks. They display data, get user input and call service methods to get/send data.</p>
 <p>Component is generally created as set of three files: HTML + Typescript + CSS</p>
 <p>For example, AppComponent is created as follows:</p>
 <p>app.component.ts&mdash; the component class code, written in TypeScript.</p>
