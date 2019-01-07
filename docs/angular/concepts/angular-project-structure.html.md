@@ -8,6 +8,6 @@
 <p>app.component.html&mdash; the component template, written in HTML.</p>
 <p>app.component.css&mdash; the component's private CSS styles.</p>
 
-<p>Refer <a href="https://github.com/ibabuashok/FrontEnd/tree/master/src/angular/tutorial/angular-getting-started/my-app/src/app" target="_blank">Source Code</a> here</p>
+<a href="https://github.com/ibabuashok/FrontEnd/tree/master/src/angular/tutorial/angular-getting-started/my-app/src/app" target="_blank">Source Code</a>
 
 <a href="../../">Home</a>
