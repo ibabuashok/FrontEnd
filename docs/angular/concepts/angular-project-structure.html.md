@@ -2,11 +2,12 @@
 <p><span style="text-decoration: underline;"><strong>Angular Project Structure</strong></span></p>
 <p><span style="text-decoration: underline;"><strong>Components:</strong></span></p>
 <p><em>Components</em>&nbsp;are the basic building blocks. They display data, get user input and call appropriate service methods.</p>
-<p>Component is generally created as set of three files:</p>
-<p>*.component.ts&mdash; the component class code, written in TypeScript.</p>
-<p>*.component.html&mdash; the component template, written in HTML.</p>
-<p>*.component.css&mdash; the component's private CSS styles.</p>
+<p>Component is generally created as set of three files: HTML + Typescript + CSS</p>
+<p>For example, AppComponent is created as follows:</p>
+<p>app.component.ts&mdash; the component class code, written in TypeScript.</p>
+<p>app.component.html&mdash; the component template, written in HTML.</p>
+<p>app.component.css&mdash; the component's private CSS styles.</p>
 
-<a href="https://github.com/ibabuashok/FrontEnd/tree/master/src/angular/tutorial/angular-getting-started/my-app" target="_blank">Source Code</a>
+<p>Refer <a href="https://github.com/ibabuashok/FrontEnd/tree/master/src/angular/tutorial/angular-getting-started/my-app/src/app" target="_blank">Source Code</a> here</p>
 
 <a href="../../">Home</a>
