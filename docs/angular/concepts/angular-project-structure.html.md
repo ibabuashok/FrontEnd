@@ -6,3 +6,7 @@
 <p>*.component.ts&mdash; the component class code, written in TypeScript.</p>
 <p>*.component.html&mdash; the component template, written in HTML.</p>
 <p>*.component.css&mdash; the component's private CSS styles.</p>
+
+<a href="https://github.com/ibabuashok/FrontEnd/tree/master/src/angular/tutorial/angular-getting-started/my-app" target="_blank">Source Code</a>
+
+<a href="../../">Home</a>
