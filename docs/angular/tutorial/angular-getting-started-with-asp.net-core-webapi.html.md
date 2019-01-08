@@ -10,6 +10,10 @@
 </ol>
 <p>Angular application will run in a new browser window.</p>
 
+<p><strong>Project Structure</strong></p>
+<p>ClientApp folder contains Angular application code</p>
+<p>Controller folder contains ASP.NET Web API Controller code</p>
+
 <a href="https://github.com/ibabuashok/FrontEnd/tree/master/src/angular/tutorial/angular-getting-started-with-asp.net-core-webapi/Solution" target="_blank">Source Code</a>
 
 <a href="../../">Home</a>
