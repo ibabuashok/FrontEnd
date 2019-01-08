@@ -9,3 +9,8 @@
 <li>Now, Angular project is created with ASP.Net Core Web API. Press F5.</li>
 </ol>
 <p>Angular application will run in a new browser window.</p>
+
+<a href="https://github.com/ibabuashok/FrontEnd/tree/master/src/angular/tutorial/angular-getting-started-with-asp.net-core-webapi/Solution" target="_blank">Source Code</a>
+
+<a href="../../">Home</a>
+
