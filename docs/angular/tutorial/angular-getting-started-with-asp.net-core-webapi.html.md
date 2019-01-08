@@ -11,10 +11,12 @@
 <p>Angular application will run in a new browser window.</p>
 
 <p><strong>Project Structure</strong></p>
-<p>Controller folder contains ASP.NET Web API Controller code</p>
-<p>ClientApp folder contains Angular application code</p>
-<p>ClientApp\src\index.html is the default page.&nbsp;</p>
-<p>ClientApp\src\app\ contains all the angular components&nbsp;</p>
+<ol>
+<li>Controller folder contains ASP.NET Web API Controller code</li>
+<li>ClientApp folder contains Angular application code</li>
+<li>ClientApp\src\index.html is the default page.&nbsp;</li>
+<li>ClientApp\src\app\ contains all the angular components&nbsp;</li>
+</ol>
 
 <a href="https://github.com/ibabuashok/FrontEnd/tree/master/src/angular/tutorial/angular-getting-started-with-asp.net-core-webapi/Solution" target="_blank">Source Code</a>
 
