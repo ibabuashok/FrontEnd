@@ -22,7 +22,14 @@
 <p>NgModules can import functionality from other NgModules, and allow their own functionality to be exported and used by other NgModules. For example, to use the router service in your app, you import the Router NgModule.</p>
 <p>Organizing your code into distinct functional modules helps in managing development of complex applications, and in designing for reusability. In addition, this technique lets you take advantage of lazy-loading—that is, loading modules on demand—to minimize the amount of code that needs to be loaded at startup.</p>
 <p>An NgModule is defined by a class decorated with @NgModule()</p>
-<p></p>
+<p>A root NgModule always has a root component or an entryComponent that Angular creates and inserts into the index.html host web page during bootstrapping.</p>
+<p>The components that belong to an NgModule share a compilation context.</p>
+<p>All Angular libraries are NgModules, such as FormsModule, HttpClientModule, and RouterModule.</p>
+<p>Modules can also add services to the application.</p>
+<p>Modules can be loaded eagerly when the application starts or lazy loaded asynchronously by the router.</p>
+
+
+While you can put more than one component tree on a host web page, most applications have only one component tree and bootstrap a single root component.
 
 <a href="https://github.com/ibabuashok/FrontEnd/tree/master/src/angular/tutorial/angular-getting-started/my-app/src/app" target="_blank">Source Code</a>
 
