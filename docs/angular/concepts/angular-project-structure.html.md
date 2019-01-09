@@ -9,12 +9,12 @@
 <p>app.component.html&mdash; the component template, written in HTML.</p>
 <p>app.component.css&mdash; the component's private CSS styles.</p>
 
-<p><em>Key Files</em></p>
+<p><span style="text-decoration: underline;"><strong>Key Files:</strong></span></p>
 <li>..\src\index.html is the default page.&nbsp;</li>
 <li>..\src\app\ contains all the angular components&nbsp;</li>
 <li>..\package.json contains all the information about project dependencies and their versions</li>
 
-<p><em>NgModules</em></p>
+<p><span style="text-decoration: underline;"><strong>NgModules:</strong></span></p>
 <p>An angular application is defined by a set of NgModules</p>
 <p>NgModules collect related code into functional sets;</p>
 <p>NgModules provide a compilation context for components.</p>
