@@ -18,7 +18,7 @@
 <p>An angular application is defined by a set of NgModules</p>
 <p>NgModules collect related code into functional sets;</p>
 <p>NgModules provide a compilation context for components.</p>
-<p>An app always has at least a root module (conventionally named AppModule) that enables bootstrapping, and typically has many more functional modules. </p>
+<p>An app always has at least a root module (conventionally named AppModule and defined in a file named app.module.ts) that enables bootstrapping, and typically has many more functional modules. </p>
 <p>NgModules can import functionality from other NgModules, and allow their own functionality to be exported and used by other NgModules. For example, to use the router service in your app, you import the Router NgModule.</p>
 <p>Organizing your code into distinct functional modules helps in managing development of complex applications, and in designing for reusability. In addition, this technique lets you take advantage of lazy-loading—that is, loading modules on demand—to minimize the amount of code that needs to be loaded at startup.</p>
 <p></p>
