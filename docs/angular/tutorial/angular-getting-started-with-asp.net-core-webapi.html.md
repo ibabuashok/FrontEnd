@@ -14,9 +14,6 @@
 <ol>
 <li>Controller folder contains ASP.NET Web API Controller code</li>
 <li>ClientApp folder contains Angular application code</li>
-<li>ClientApp\src\index.html is the default page.&nbsp;</li>
-<li>ClientApp\src\app\ contains all the angular components&nbsp;</li>
-<li>ClientApp\package.json contains all the information about project dependencies and their versions</li>
 </ol>
 
 <a href="https://github.com/ibabuashok/FrontEnd/tree/master/src/angular/tutorial/angular-getting-started-with-asp.net-core-webapi/Solution" target="_blank">Source Code</a>
